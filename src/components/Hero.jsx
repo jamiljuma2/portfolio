@@ -1,6 +1,6 @@
 
 import React from 'react'
-import profileImg from '../assets/PORTFOLIO IMAGE.jpeg'
+import profileImg from '../assets/portfolio-image.jpeg'
 
 function Hero() {
   const scrollToSection = (id) => {
