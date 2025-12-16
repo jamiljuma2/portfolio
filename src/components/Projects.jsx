@@ -16,7 +16,7 @@ function Projects() {
       ],
       techStack: 'Django, Django REST Framework, React, PostgreSQL, Payments API',
       demoUrl: 'https://login-gamma-livid-63.vercel.app',
-      githubUrl: '#'
+      githubUrl: 'https://github.com/jamiljuma2/LOGIN'
     },
     {
       id: 2,
@@ -32,7 +32,7 @@ function Projects() {
       ],
       techStack: 'React, Django REST Framework, PostgreSQL',
       demoUrl: 'https://cafe-seven-zeta.vercel.app',
-      githubUrl: '#'
+      githubUrl: 'https://github.com/jamiljuma2/cafe-'
     },
     {
       id: 3,
@@ -62,7 +62,7 @@ function Projects() {
       ],
       techStack: 'Django REST Framework, React, PostgreSQL',
       demoUrl: 'https://my-django-project-1-0k73.onrender.com',
-      githubUrl: '#'
+      githubUrl: 'https://github.com/jamiljuma2/My-django-project'
     }
   ]
 
