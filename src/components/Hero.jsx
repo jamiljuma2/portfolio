@@ -40,7 +40,7 @@ function Hero() {
         <div className="hero-image-wrapper">
           <img
             src={profileImg}
-            alt="Portrait of Jamil Juma, Product-Focused Full-Stack Developer"
+            alt="Portrait of BARASA JUMA JAMIL, Product-Focused Full-Stack Developer"
             className="hero-profile-img"
             loading="lazy"
             width="220"

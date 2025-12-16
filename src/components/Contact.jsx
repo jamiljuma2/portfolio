@@ -11,7 +11,7 @@ function Contact() {
             <a 
               href="mailto:jumajamil314@gmail.com" 
               className="contact-link"
-              aria-label="Send email to Jamil Juma"
+              aria-label="Send email to BARASA JUMA JAMIL"
             >
               Email
             </a>
@@ -20,7 +20,7 @@ function Contact() {
               className="contact-link"
               target="_blank"
               rel="noopener noreferrer"
-              aria-label="Contact Jamil Juma on WhatsApp"
+              aria-label="Contact BARASA JUMA JAMIL on WhatsApp"
             >
               WhatsApp
             </a>
@@ -29,7 +29,7 @@ function Contact() {
               className="contact-link"
               target="_blank"
               rel="noopener noreferrer"
-              aria-label="View Jamil Juma's GitHub profile"
+              aria-label="View BARASA JUMA JAMIL's GitHub profile"
             >
               GitHub
             </a>
@@ -38,7 +38,7 @@ function Contact() {
               className="contact-link"
               target="_blank"
               rel="noopener noreferrer"
-              aria-label="View Jamil Juma's LinkedIn profile"
+              aria-label="View BARASA JUMA JAMIL's LinkedIn profile"
             >
               LinkedIn
             </a>

@@ -1,4 +1,4 @@
-# Jamil Juma - Developer Portfolio
+# BARASA JUMA JAMIL - Developer Portfolio
 
 A clean, professional, one-page developer portfolio optimized for remote jobs and freelancing.
 

@@ -22,7 +22,7 @@ function Navigation() {
     <nav className={`navigation ${isScrolled ? 'scrolled' : ''}`} role="navigation" aria-label="Main navigation">
       <div className="nav-container">
         <div className="nav-logo" onClick={() => scrollToSection('hero')}>
-          Jamil Juma
+          BARASA JUMA JAMIL
         </div>
         <ul className="nav-links">
           <li><button onClick={() => scrollToSection('projects')} aria-label="View projects">Projects</button></li>
