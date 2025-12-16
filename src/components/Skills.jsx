@@ -16,7 +16,7 @@ function Skills() {
     },
     {
       title: 'Payments & Integrations',
-      skills: ['Stripe / Mobile Payments', 'Webhooks']
+      skills: ['Stripe / Mobile Payments', 'Mpesa Integration by LIPANA MPESA API', 'Webhooks']
     },
     {
       title: 'Development & Deployment',
