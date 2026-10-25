@@ -6,7 +6,7 @@ import { projects } from './data/projects';
 import { experience } from './data/experience';
 import { education } from './data/education';
 
-const nav = [{ label: 'About', id: 'about' }, { label: 'Skills', id: 'skills' }, { label: 'Projects', id: 'projects' }, ...(experience.length ? [{ label: 'Experience', id: 'experience' }] : []), ...(education.length ? [{ label: 'Education', id: 'education' }] : []), { label: 'Contact', id: 'contact' }];
+const nav = [{ label: 'About', id: 'about' }, { label: 'Skills', id: 'skills' }, { label: 'Projects', id: 'projects' }, ...(experience.length ? [{ label: 'Experience', id: 'experience' }] : []), ...(education.length ? [{ label: 'Education', id: 'education' }] : [])];
 
 function Header() {
   const [open, setOpen] = useState(false);
